@@ -1,0 +1,18 @@
+
+#str -> strings -> texto
+
+#aspas simples
+print('Leonardo')
+
+#aspas duplas
+print("Leonardo")
+
+#Digito de escape - faz o leitor ignorar o próximo caractere
+print("Leonardo \"Lino\"")
+
+#r - para leitura total
+print(r"Leonardo \"Lino\"") #exibindo o caractere de escape
+
+#o digito de escape e o "r" geralmente não são usados. Para fazer o #trabalho se usa aspas simples e dentro do texto, aspas duplas
+#ex
+print('Leonardo "Lino"')
